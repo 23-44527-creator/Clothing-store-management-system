@@ -1,0 +1,1 @@
+<?php echo 'CSMS Dashboard Placeholder'; ?>
